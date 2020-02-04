@@ -84,7 +84,7 @@ void addTodo()
 void printAllTodo()
 {
     printf("+----+-------------------------------------+--------------+-------------+\n");
-    printf("| ID | \t \t      Todo Title           |  Created at  |  Completed  |\n");
+    printf("| ID | \t \t      Todo Title               |  Created at  |  Completed  |\n");
     printf("+----+-------------------------------------+--------------+-------------+\n");
 
     for (int i = 0; i < tLength; i++)
