@@ -1,5 +1,7 @@
 # Todo-app-in-C
-A beautiful Todo list app in C programming language
+## A beautiful Todo list app in C programming language
+
+![Screenshot](https://i.imgur.com/yISUstX.png)
 
 Try online 
 
