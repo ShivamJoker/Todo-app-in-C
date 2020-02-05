@@ -1,4 +1,10 @@
-#include<bits/stdc++.h>
+#include <stdio.h>
+#include <string.h>
+#include <time.h>
+#include <stdbool.h>
+#include <ctype.h>
+#include <stdlib.h>
+#include <unistd.h>
 
 int tLength = 0;
 FILE *fp;
@@ -184,8 +190,6 @@ void isThisFirstTime()
 
 int main()
 {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
     system("clear||@cls");
     printf("\033[32;1m");
     isThisFirstTime();
